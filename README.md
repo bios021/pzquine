@@ -4,9 +4,9 @@ a zip quine generator based on python
 require package:bitarray
 
 ## usage  
-‵‵‵bash
-python main.py -f [files name] -o [output file name]
-‵‵‵
+'''bash  
+python main.py -f [files name] -o [output file name]  
+'''
 
 based on:
  -R. Van Mello and P. Audenaert, "A Generator for Recursive Zip Files",  
